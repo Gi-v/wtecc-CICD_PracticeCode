@@ -1,4 +1,4 @@
-name : CI workflow
+name :  git commitCI workflow
 
 on: 
   push:
